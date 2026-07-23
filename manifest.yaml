@@ -1,0 +1,31 @@
+# project and workdata paths
+
+homes:  "/homes/olymp/michael.rade/projects/2026-S51N/"
+work:  "/mnt/ribolution/user_worktmp/michael.rade/work/2026-Kluesner-FredHutch/"
+
+merz:
+  work:  "/mnt/ribolution/user_worktmp/michael.rade/work/2026-Kluesner-FredHutch/project_s51n/data/single_cell/merz_et_al/"
+  work_p65:  "/mnt/ribolution/user_worktmp/michael.rade/work/2026-Kluesner-FredHutch/project_s51n/data/single_cell/merz_et_al/"
+  objects:  "/mnt/ribolution/user_worktmp/michael.rade/work/2026-BCMA-CAR-NEW-RUN/"
+  objects_df:  "/mnt/ribolution/user_worktmp/michael.rade/work/2025-LT-Persister/"
+
+braun:
+  work:  "/mnt/ribolution/user_worktmp/michael.rade/work/2026-Kluesner-FredHutch/project_s51n/data/single_cell/braun_et_al/"
+  fastq:  "/mnt/ribolution/user_worktmp/michael.rade/work/2024-BCMA-CAR-Koeln/data/multi_omics/fastq/"
+
+hosoya:
+  work: "/mnt/ribolution/user_worktmp/michael.rade/work/2026-Kluesner-FredHutch/project_s51n/data/single_cell/hosoya_et_al/"
+  bam_Duodenum: "/mnt/ribolution/user_worktmp/michael.rade/work/2026-Kluesner-FredHutch/project_s51n/DWMCT/Analysis/hosoya_et_al/GSM9314767__vs__ciltacel_mined__hg38/GSM9314767.vs.ciltacel_mined__hg38.sorted.bam"
+  bam_Stomach: "/mnt/ribolution/user_worktmp/michael.rade/work/2026-Kluesner-FredHutch/project_s51n/DWMCT/Analysis/hosoya_et_al/GSM9314768__vs__ciltacel_mined__hg38/GSM9314768.vs.ciltacel_mined__hg38.sorted.bam"
+  bam_Ileum: "/mnt/ribolution/user_worktmp/michael.rade/work/2026-Kluesner-FredHutch/project_s51n/DWMCT/Analysis/hosoya_et_al/GSM9314769__vs__ciltacel_mined__hg38/GSM9314769.vs.ciltacel_mined__hg38.sorted.bam"
+
+ho:
+  work: "/mnt/ribolution/user_worktmp/michael.rade/work/2026-Kluesner-FredHutch/project_s51n/data/single_cell/ho_et_al/"
+
+oekelen:
+  work: "/mnt/ribolution/user_worktmp/michael.rade/work/2026-Kluesner-FredHutch/project_s51n/data/single_cell/oekelen_et_al/"
+
+aleman:
+  work: "/mnt/ribolution/user_worktmp/michael.rade/work/2026-Kluesner-FredHutch/project_s51n/data/single_cell/aleman_et_al/"
+
+refs: "/mnt/ribolution/user_worktmp/michael.rade/work/2026-Kluesner-FredHutch/references/cellranger/"
